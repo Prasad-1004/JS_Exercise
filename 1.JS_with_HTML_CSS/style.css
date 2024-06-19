@@ -1,0 +1,21 @@
+.btn {
+    background-color: red;
+}
+
+#butn {
+    background-color: blueviolet;
+}
+
+.one {
+    color: black;
+    background-color: rgb(91, 199, 91);
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+}
+
+#two {
+    border-radius: 10px;
+    padding: 12px;
+    border: solid 2px black;
+}
